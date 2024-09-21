@@ -149,8 +149,12 @@ button {
 }
 
 .prime-section {
-  background-color: rgba(46, 47, 66, 0.7);
   background-image: url(./images/people-office.jpg);
+  background-color: rgba(46, 47, 66, 0.7);
+}
+
+.background-image {
+  width: 1440px;
 }
 
 .prime-name {
