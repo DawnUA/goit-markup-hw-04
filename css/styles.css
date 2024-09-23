@@ -434,6 +434,10 @@ button {
   color: #f4f4fd;
 }
 
+.footer-container {
+  display: flex;
+}
+
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
@@ -445,4 +449,8 @@ button {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+}
+
+.footer-social {
+  display: flex;
 }
